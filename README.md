@@ -30,5 +30,5 @@ AWS RDS MySql, Hibernate
 
 Twitch API
 
-### Demo
+### Demo:
 https://youtu.be/sWl8947kv0c
