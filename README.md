@@ -4,7 +4,7 @@ This is a personalized (Twitch resources) live-steaming recommendation full-stac
 
 ### Features: 
 
-User registration, login/logout, favourite/unvourite, game search, recommendation based on favourites or top games.
+User registration, login/logout, favorite/unfavorite, game search, recommendation based on favorites or top games.
 
 ### Language:
 
@@ -29,6 +29,10 @@ AWS RDS MySql, Hibernate
 ### External API: 
 
 Twitch API
+
+### Recommendation Algorithm
+
+Content-based
 
 ### Demo:
 https://youtu.be/sWl8947kv0c
