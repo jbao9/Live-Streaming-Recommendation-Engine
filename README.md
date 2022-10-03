@@ -4,7 +4,7 @@ This is a personalized (Twitch resources) live-steaming recommendation full-stac
 
 ### Features: 
 
-User registration, login/logout, favorite/unfavorite, game search, recommendation based on favorites or top games.
+User registration, login/logout, game search, favorite/unfavorite, recommendation based on favorites or top games.
 
 ### Language:
 
